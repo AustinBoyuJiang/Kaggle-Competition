@@ -5,4 +5,4 @@ import os
 import tensorflow as tf
 import tensorflow_decision_forests as tfdf
 
-print(f"Found TF-DF {tfdf.__vrsion__}")
+print(f"Found TF-DF {tfdf.__version__}")
